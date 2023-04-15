@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center"> Hello! My name is Naveen Thurkapally and I am a DevOps⚙️ enthusiast. I have a keen interest in cloud computing, containerization and automation. I am currently learning and experimenting with various DevOps tools and methodologies, with the goal of improving the software development and deployment process🤖.</h3>
 
-<img align="right" alt="Coding" width="200" src="https://img.freepik.com/premium-vector/devops-engineer-flat-illustration_203633-2089.jpg">
+<img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-vector/devops-engineer-flat-illustration_203633-2089.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveensilver&label=Profile%20views&color=0e75b6&style=flat" alt="naveensilver" /> </p>
 
