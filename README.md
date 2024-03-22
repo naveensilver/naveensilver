@@ -6,8 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveensilver&label=Profile%20views&color=0e75b6&style=flat" alt="naveensilver" /> </p>
 
-- 📫 How to reach me **turkapallynaveen00@gmail.com**
+- 🌱 I’m currently learning **Kubernetes**
 
+- 📫 How to reach me **naveensilver136@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/naveen-silver-devops/](https://www.linkedin.com/in/naveen-silver-devops/)
+
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naveen thurkapally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen thurkapally" height="30" width="40" /></a>
