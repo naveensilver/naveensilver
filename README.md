@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- ♻️ My Personal Projects **[DevOps-CI-CD_Projects](https://github.com/naveensilver/DevOps_CI-CD_Projects.git)**
+- ♾ My Personal Projects **[DevOps-CI-CD_Projects](https://github.com/naveensilver/DevOps_CI-CD_Projects.git)**
 
 - 📫 How To Reach Me **naveensilver136@gmail.com**
 
