@@ -10,6 +10,8 @@
 
 - ♾ My Personal Projects **[DevOps-CI-CD_Projects](https://github.com/naveensilver/DevOps_CI-CD_Projects.git)**
 
+- 📖 My DevOps Notes **[DevOps](https://github.com/naveensilver/Devops.git)**
+
 - 📫 How To Reach Me **naveensilver136@gmail.com**
 
 - 📄 Know About My Experiences **[LinkdIn](https://www.linkedin.com/in/naveen-silver-devops/)**
