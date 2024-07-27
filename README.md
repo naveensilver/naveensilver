@@ -14,7 +14,7 @@
 
 - 📫 How To Reach Me **naveensilver136@gmail.com**
 
-- 📄 Know About My Experiences **[LinkdIn](https://www.linkedin.com/in/naveen-silver-devops/)**
+- 📄 Know About My Experiences **[LinkdIn](https://www.linkedin.com/in/naveenops/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
