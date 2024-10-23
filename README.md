@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveensilver&label=Profile%20views&color=0e75b6&style=flat" alt="naveensilver" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **[Kubernetes](https://github.com/naveensilver/Kubernetes)**
 
 - ♾ My Personal Projects **[DevOps-CI-CD_Projects](https://github.com/naveensilver/DevOps_CI-CD_Projects.git)**
 
